@@ -1,0 +1,29 @@
+{
+  "name": "calendar-cli-justincrab",
+  "version": "1.0.0",
+  "description": "a calendar system",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "moment-range": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/calendar-cli-justincrab.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Justin Crabtree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/calendar-cli-justincrab/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/calendar-cli-justincrab#readme"
+}
